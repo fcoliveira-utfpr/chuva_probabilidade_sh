@@ -20,4 +20,4 @@ A precipitação é um fenômeno que varia espacial e temporalmente. Visando con
 | **Município**    | Nome do município                                                          |
 | **Data**         | Data correspondente a cada dado                                            |
 
-
+OBS.: Os dados da estação meteorológica são de responsabilidade da Secretaria do Meio Ambiente e Recursos Hídricos do Paraná, representados pelo AGUASPARANÁ por meio do Instituto das Águas do Paraná (IAT).
