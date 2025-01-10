@@ -6,7 +6,7 @@ A precipitação é um fenômeno que varia espacial e temporalmente. Visando con
 `analises_anual_chuva.ipynb`: contém os códigos para conectar o Google Drive com o colab; analisar a tendência anual da chuva; encontrar as funções FDP e FDA; e, determinar a precipitação provável para sete níveis de probabilidade de ocorrência;
 `analises_mensal_chuva.ipynb`: contém os códigos para conectar o Google Drive com o colab; analisar a tendência mensal da chuva; encontrar as funções FDP e FDA; e, determinar a precipitação provável para sete níveis de probabilidade de ocorrência;
 `analises_decendial_chuva.ipynb`: contém os códigos para conectar o Google Drive com o colab; analisar a tendência decendial da chuva; encontrar as funções FDP e FDA; e, determinar a precipitação provável para sete níveis de probabilidade de ocorrência;
-`dados_chuva_oeste.csv`: contém a série de dados diários chuva de 1990 a 2023, organizados nas seguindas colunas:
+`dados_chuva_oeste.csv`: contém a série de dados diários chuva de 1976 a 2023, organizados nas seguindas colunas:
 
 | **Coluna**      | **Descrição**                                                                 |
 |------------------|-------------------------------------------------------------------------------|
