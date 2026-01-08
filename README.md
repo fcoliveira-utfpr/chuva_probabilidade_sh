@@ -1,5 +1,5 @@
 # Análise probabilística da chuva em Santa Helena - PR
-Este projeto apresenta os códigos e dataset utilizados para anáise dos dados para construção do artigo intitulado **"Modelagem probabilística da precipitação pluvial em diferentes escalas temporais para Santa Helena, Paraná"**.
+Este projeto apresenta os códigos e dataset utilizados para análise dos dados para construção do artigo intitulado **"Modelagem probabilística da precipitação pluvial em diferentes escalas temporais para Santa Helena, Paraná"**.
 As análises foram realizados no Google Colab.
 # Como citar?
 Oliveira, F. C.; Sobucki, L.; Thomaz, D. V.; Giovanella, T. H.; Rocha, A. S. Modelagem probabilística da precipitação pluvial em diferentes escalas temporais para Santa Helena, Paraná. **Revista Brasileira de Geografia Física** v.18, n.02, 2025. [https://doi.org/10.26848/rbgf.v18.2.p1527-1542](https://doi.org/10.26848/rbgf.v18.2.p1527-1542)
